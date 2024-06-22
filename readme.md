@@ -4,3 +4,5 @@ https://www.educative.io/courses/practical-guide-to-kubernetes/
 2. Kubernetes in 1 Hour by nana
 
    I will document the notes as part of this learning journey
+
+Install
